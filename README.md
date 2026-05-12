@@ -16,6 +16,5 @@
 ## Article
 - [Scapy + Kafka TCP 패킷 수집 파이프라인](https://yesolje.tistory.com/18)
 - [GitLab Runner Docker CI/CD 구축](https://yesolje.tistory.com/19)
-- [Spring Validator 전역 검증체계 구축](https://yesolje.tistory.com/entry/...)
 
 📝 Blog: https://yesolje.tistory.com
