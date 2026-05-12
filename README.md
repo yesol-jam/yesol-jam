@@ -1,14 +1,21 @@
-## Personal Information
-* name : Yesol Je
-## Education & Career
-* __(23.07 - 현재) 타이거컴퍼니 - 구축형 티그리스(협업툴) 개발__
-* (22.01 - 23.01) 엔소프트웨어 - 공공기관 웹개발
-* (22.07 - 22.12) 비트캠프 웹 개발자 과정
-* (14.03 - 18.08) 성신여자대학교 정치외교학과
-## Article
-* (24.12 타이거컴퍼니) [Spring Validator를 이용한 전역 검증체계 구축](https://yesolje.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%EC%97%AD-%EA%B2%80%EC%A6%9D-%EC%B2%B4%EA%B3%84-%EA%B5%AC%EC%B6%95-Spring-Validator-%EC%99%80-Binding-Result-%ED%99%9C%EC%9A%A9)
-<!--## Article
-* article 1
-* article 2
--->
+## Yesol Je | Server Engineer
 
+사이버보안 도메인 실무 경험을 가진 서버 엔지니어입니다.
+백엔드 개발부터 인프라 설계까지 서비스 전 영역을 담당합니다.
+
+**Tech Stack**
+- Backend: Java/Spring Boot, Golang, Python, Node.js
+- Infra: Docker, GitLab CI/CD, SaltStack, Linux
+- Data: Kafka(KRaft), Redis, RabbitMQ, MariaDB
+
+## Career
+- (2025.06 ~ ) 코어시큐리티 - 다크웹 추적엔진 개발, 교육훈련플랫폼 인프라 구축
+- (2023.07 ~ 2025.01) 타이거컴퍼니 - 구축형 업무포탈 개발
+- (2022.01 ~ 2023.01) 엔소프트웨어 - 공공기관 웹개발
+
+## Article
+- [Scapy + Kafka TCP 패킷 수집 파이프라인](https://yesolje.tistory.com/18)
+- [GitLab Runner Docker CI/CD 구축](https://yesolje.tistory.com/19)
+- [Spring Validator 전역 검증체계 구축](https://yesolje.tistory.com/entry/...)
+
+📝 Blog: https://yesolje.tistory.com
